@@ -155,7 +155,8 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 
 ## Output
-<img width="1600" height="900" alt="dlcd 1" src="https://github.com/user-attachments/assets/05f714f0-6779-43cc-aa12-e05e8174f7e2" />
+<img width="1526" height="782" alt="dlcd exp-6" src="https://github.com/user-attachments/assets/c8e2edb4-8707-4d6b-827d-f9a16bb62279" />
+
 
 
 ## Result
